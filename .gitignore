@@ -8,7 +8,7 @@
 .classpath
 .project
 .settings
-
+settings/
 # IntelliJ project files
 .idea
 *.iml
