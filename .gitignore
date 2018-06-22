@@ -8,7 +8,9 @@
 .classpath
 .project
 .settings
-
+settings/
+.vscode
+.factorypath
 # IntelliJ project files
 .idea
 *.iml
